@@ -1,0 +1,14 @@
+table, td, th {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+td {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+th {
+    background-color: gold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
