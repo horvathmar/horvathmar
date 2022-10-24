@@ -10,15 +10,12 @@ p {
     
     }
 .jatekosok {
-    background-color: lightgoldenrodyellow;
-    border-top-width: 20px;
-    border: 5px solid black;
-    color: black;
-    padding-left: 30px;
+    border: 3px solid black;
+    color: rgb(26, 66, 177);
     text-align: left;
-    padding-bottom: 60px;
-    padding: 10px 20px 30px 40px;
-    padding: 10px 5px;
+    width: 500px;
+    margin: 0 auto;
+    background-image: url(images/realmadrid5kicsi.jpg);
 }
 h1 {
     color: blue;
@@ -28,4 +25,8 @@ h1 {
 }
 hr {
     border: 5px solid blue;
+}
+body {
+    background-image: url(images/realmadridbackgr.jpg);
+    background-size: 100%;
 }
