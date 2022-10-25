@@ -1,5 +1,5 @@
 h2 {
-    color: aqua;
+    color: rgb(11, 139, 97);
     background-color: darkkhaki;
     font-size: 60px;
     font-family: 'Times New Roman', Times, serif;
@@ -9,14 +9,14 @@ p {
     font-family: monospace;
     
     }
-.jatekosok {
-    border: 3px solid black;
-    color: rgb(26, 66, 177);
-    text-align: left;
-    width: 500px;
-    margin: 0 auto;
-    background-image: url(images/realmadrid5kicsi.jpg);
-}
+.jatekosok1 {
+        border: 1px solid grey;
+        color: black;
+        text-align: left;
+        width: 700px;
+        margin: 0 auto;
+        background-image: url(images/realmadrid5kicsi2.jpg);
+    }
 h1 {
     color: blue;
     text-align: center;
