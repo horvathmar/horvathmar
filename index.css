@@ -3,7 +3,6 @@
     float: left;
 }
 .Adatok {
-    padding: 0;
     background-color: darkkhaki;
     overflow: hidden;
 }
@@ -16,18 +15,5 @@ li a {
 li a:hover {
     background-color: lightblue;
 }
-.aktív {
-    background-color: lightblue;
-}
-.adatok {
-    background-color: lightblue;
-}
-.források {
-    background-color: lightblue;
-}
-.sikerek {
-    background-color: lightblue;
-}
-.játékosok {
-    background-color: lightblue;
-}
+
+

@@ -14,19 +14,71 @@ p {
         color: black;
         text-align: left;
         width: 700px;
-        margin: 0 auto;
         background-image: url(images/realmadrid5kicsi2.jpg);
+        background-size: 100%;
     }
 h1 {
-    color: blue;
-    text-align: center;
+    color: black;
+    text-align: left;
     font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-hr {
-    border: 5px solid blue;
-}
+
 body {
-    background-image: url(images/realmadridbackgr.jpg);
+    background-image: url(images/background2.jpg);
     background-size: 100%;
+}
+.stadion2 {
+    text-align: justify;
+}
+.stadion3 {
+    float: right;
+    width: 60%;
+    border-radius: 50%;
+}
+.container {
+    width: 50%;
+    position: relative;
+    max-width: 300%;
+    float: right;
+}
+.image {
+    display: block;
+    width: 50%;
+    height: auto;
+}
+.kiemeles {
+    position: absolute;
+    bottom: 0;
+    background: black;
+    width: 46%;
+    transition: .5s ease;
+    opacity: 0.3 ;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.konténer {
+    width: 50%;
+    position: relative;
+    max-width: 300%;
+    float: left;
+}
+.image2 {
+    display: block;
+    width: 50%;
+    height: auto;
+}
+.kiemeles2 {
+    position: absolute;
+    bottom: 0;
+    background: black;
+    width: 46%;
+    transition: .5s ease;
+    opacity: 0.5 ;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
 }
