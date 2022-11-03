@@ -13,15 +13,16 @@ p {
         border: 1px solid grey;
         color: black;
         text-align: left;
-        width: 700px;
+        width: 40%;
         background-image: url(images/realmadrid5kicsi2.jpg);
         background-size: 100%;
+        
     }
 h1 {
-    color: black;
-    text-align: left;
-    font-size: 80px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkkhaki;
+    color: rgb(11, 139, 97);
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
@@ -33,7 +34,7 @@ body {
 }
 .stadion3 {
     float: right;
-    width: 60%;
+    width: 70%;
     border-radius: 50%;
 }
 .container {
@@ -46,6 +47,7 @@ body {
     display: block;
     width: 50%;
     height: auto;
+    margin-left: 400px;
 }
 .kiemeles {
     position: absolute;
@@ -58,9 +60,10 @@ body {
     padding: 20px;
     text-align: center;
     font-size: 30px;
+    margin-left: 400px;
 }
 .konténer {
-    width: 50%;
+    width: 47%;
     position: relative;
     max-width: 300%;
     float: left;
@@ -68,17 +71,37 @@ body {
 .image2 {
     display: block;
     width: 50%;
-    height: auto;
 }
 .kiemeles2 {
     position: absolute;
     bottom: 0;
     background: black;
-    width: 46%;
+    width: 45%;
     transition: .5s ease;
     opacity: 0.5 ;
     color: white;
     padding: 20px;
     text-align: center;
     font-size: 30px;
+}
+.linkek {
+    color: black;
+    text-decoration: underline;
+}
+.keret {
+    display: inline;
+    float: left;
+}
+.Adatok {
+    background-color: darkkhaki;
+    overflow: hidden;
+}
+li a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+}
+li a:hover {
+    background-color: lightblue;
 }
