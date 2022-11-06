@@ -37,6 +37,10 @@ body {
     width: 70%;
     border-radius: 50%;
 }
+video {
+    width: 20%;
+    margin-left: 1500px;
+}
 .container {
     width: 50%;
     position: relative;
@@ -76,7 +80,7 @@ body {
     position: absolute;
     bottom: 0;
     background: black;
-    width: 45%;
+    width: 46%;
     transition: .5s ease;
     opacity: 0.5 ;
     color: white;
