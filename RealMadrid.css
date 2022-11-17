@@ -25,11 +25,17 @@ p {
     width: 20%;
     margin-left: 400px;
 }
+.ketto:hover {
+    transition: ease-in-out 0.2s;
+    scale: 130%;
+}
 
 .lapozas {
     display: inline-block;
 }
-
+.lapozas a:hover {
+    background-color: lightblue;
+}
 .lapozas a {
     color: black;
     float: left;
@@ -37,13 +43,6 @@ p {
     margin-top: 200px;
     text-decoration: none;
     background-color: darkkhaki;
-}
-
-h1 {
-    background-color: darkkhaki;
-    color: rgb(11, 139, 97);
-    font-size: 60px;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
@@ -71,7 +70,10 @@ body {
     width: 70%;
     border-radius: 50%;
 }
-
+.stadion3:hover {
+    transition: ease-in-out 0.3s;
+    scale: 150%;
+}
 .container {
     width: 50%;
     position: relative;
@@ -129,20 +131,10 @@ body {
     color: black;
     text-decoration: none;
 }
-
 .keret {
     display: inline;
     float: left;
 }
-
-.logo {
-    width: 25%;
-    float: right;
-}
-.logo:hover {
-    transform: rotate(180deg);
-}
-
 .Adatok {
     background-color: darkkhaki;
     overflow: hidden;
@@ -153,6 +145,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     color: black;
+    font-size: 30px;
 }
 
 .Adatok a:hover {
