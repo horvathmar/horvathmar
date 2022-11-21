@@ -80,7 +80,11 @@ body {
     max-width: 300%;
     float: right;
 }
-
+.container:hover {
+    transition: ease-in-out 0.1s;
+    scale: 120%;
+    margin-left: 50px;
+}
 .florentino {
     display: block;
     width: 50%;
@@ -112,6 +116,11 @@ body {
 .carlo {
     display: block;
     width: 50%;
+}
+.konténer:hover {
+    transition: ease-in-out 0.1s;
+    scale: 120%;
+    margin-left: 50px;
 }
 
 .kiemeles2 {
