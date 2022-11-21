@@ -151,3 +151,8 @@ body {
 .Adatok a:hover {
     background-color: lightblue;
 }
+.active {
+    background-color:rgb(228, 227, 222);
+    display: inline;
+    float: left;
+}
