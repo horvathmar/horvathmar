@@ -1,7 +1,6 @@
 table, td, th {
     border-collapse: collapse;
     border: 2px solid black;
-    padding: 5px;
     margin: auto;
     width: 50%;
     text-align: center;
@@ -25,6 +24,11 @@ a {
     color: white;
     font-size: 80px;
     text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: blue;
+    
 }
 h1 {
     text-align: center;
