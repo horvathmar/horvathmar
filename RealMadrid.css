@@ -6,9 +6,9 @@ h1 {
     text-decoration: underline;
 }
 h1:hover {
-    color: grey;
     transition: ease-in-out 0.2s;
     scale: 110%;
+    text-shadow: 3px green;
 }
 h2 {
     color: rgb(11, 139, 97);
