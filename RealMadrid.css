@@ -1,3 +1,15 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    margin-top: 100px;
+    text-decoration: underline;
+}
+h1:hover {
+    color: grey;
+    transition: ease-in-out 0.2s;
+    scale: 110%;
+}
 h2 {
     color: rgb(11, 139, 97);
     background-color: darkkhaki;
