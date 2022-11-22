@@ -8,7 +8,7 @@ h1 {
 h1:hover {
     transition: ease-in-out 0.2s;
     scale: 110%;
-    text-shadow: 3px green;
+    text-shadow: 2px 3px grey;
 }
 h2 {
     color: rgb(11, 139, 97);
