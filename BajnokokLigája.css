@@ -19,6 +19,7 @@ th {
 body {
     background-image: url("images/bl\ kupa.png");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 a {
     color: white;
