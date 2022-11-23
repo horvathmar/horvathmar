@@ -31,8 +31,9 @@ p {
     color: black;
     text-align: left;
     width: 40%;
-    background-image: url(images/realmadrid5kicsi2.jpg);
+    background-image: url("images/realmadrid5kicsi2.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
 
 }
 
